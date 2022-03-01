@@ -1,2 +1,2 @@
-# dsc650
-DSC650
+# Anomaly detection in time series data
+Anomaly detection in time series data
